@@ -1,0 +1,24 @@
+.pd-image {
+    width: 100%;
+    object-fit: contain;
+    height: 50vh;
+}
+
+.pd-card {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.deliver {
+    font-size: small;
+
+}
+
+.card-description {
+    height: 16vh;
+    overflow: hidden;
+}
+
+.card-title {
+    height: 5vh;
+    overflow-y: hidden;
+}
